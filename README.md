@@ -1,6 +1,4 @@
-- Hello, i am Abderraouf 👋
-- I am interested in programming discord bots, and web design
-- I understand the discord.js library and html and css language
-- I hope to be a successful person and fullstack js developer
-- Please do not violate the ownership of the posts in this account
+- Hello, i am Abderraouf 👋,
+- I am interested in programming discord bots, and web design,
+- I hope to be a successful person,
 - I'm here to give programmers a first look at their goals, not motivate them to copy and paste. All rights belong to me, and violating them puts you in the middle of many problems.
